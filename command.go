@@ -12,9 +12,9 @@ type Command struct {
 
 func ParseCommand(r io.Reader) (*Command, error) {
 	cmd := &Command{}
-	dec := json.NewDecoder(r)
 
-	if err := dec.Decode(cmd); err != nil {
+	err := json.NewDecoder(r).Decode(cmd)
+	if err != nil {
 		return nil, err
 	}
 

@@ -1,0 +1,18 @@
+# github.com/gobwas/httphead v0.0.0-20180130184737-2c6c146eadee
+github.com/gobwas/httphead
+# github.com/gobwas/pool v0.2.0
+github.com/gobwas/pool
+github.com/gobwas/pool/internal/pmath
+github.com/gobwas/pool/pbufio
+github.com/gobwas/pool/pbytes
+# github.com/gobwas/ws v1.0.2
+github.com/gobwas/ws
+github.com/gobwas/ws/wsutil
+# github.com/mailru/easygo v0.0.0-20190618140210-3c14a0dc985f
+github.com/mailru/easygo/netpoll
+# github.com/wascript3r/gopool v0.0.0-20191118184851-ee0547f94cb7
+github.com/wascript3r/gopool
+# github.com/wascript3r/websocket v0.0.0-20191124181334-81aaba18935a
+github.com/wascript3r/websocket
+# golang.org/x/sys v0.0.0-20191120155948-bd437916bb0e
+golang.org/x/sys/unix
